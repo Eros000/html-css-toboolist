@@ -49,15 +49,36 @@ h1{
 
 
 
-/*MAIN*/
+/*MAIN-HEADER*/
+
+.main-header{
+    padding: 30px; 
+    
+}
+
+.button{
+    background-color: #47ADF1;
+    padding: 12px 16px 12px 16px;
+    margin-left: 20px;
+    border-radius: 10px;
+    color: white;
+
+}
+
+.button2{
+    color: rgba(128, 128, 128, 0.6);
+    border-color: rgba(128, 128, 128, 0.6);
+    border: solid;
+    border-radius: 10px;
+    border-width: 1px;
+    padding: 11px 20px 11px 20px;
+    margin-left: 5px;
+
+}
 
 
 
 
 
 
-
-
-
-
-
+/*MAIN-BODY*/
