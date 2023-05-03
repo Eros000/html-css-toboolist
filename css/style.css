@@ -76,9 +76,52 @@ h1{
 
 }
 
-
-
-
-
-
 /*MAIN-BODY*/
+
+.main-body {
+    margin-left: 20px;
+    padding: 30px;
+    line-height: 30px;
+}
+
+.main-titles{
+    display: inline-block;
+    font-size: 16px;
+    font-weight: 700;
+}
+
+.main-list{
+    display: inline-block;
+    font-size: 16px;
+    
+}
+
+
+
+.check {
+    border-radius: 50%;
+    height: 30px;
+    width: 30px;
+    border: 1px solid black;
+    color: black;
+    display: inline-block;
+    text-align: center;
+}
+
+.done {
+    border-color: green;
+    color: green;
+}
+
+.not-done {
+    border-color: red;
+    color: red;
+}
+
+.main-button{
+    background-color: #47ADF1;
+    padding: 2px 16px 2px 16px;
+    margin-left: 3px;
+    border-radius: 17px;
+    color: white;
+}
