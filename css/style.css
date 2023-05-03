@@ -125,3 +125,23 @@ h1{
     border-radius: 17px;
     color: white;
 }
+
+.purple{
+    background-color: #9B70E3;
+}
+
+.green{
+    background-color: #64C0A9;
+}
+
+.orange{
+    background-color: #F29E33;
+}
+
+.pink{
+    background-color: #D863A1;
+}
+
+.yellow{
+    background-color: #B0C926;
+}
